@@ -80,7 +80,7 @@ limupa-store/
 ## Installation Guide
 
 ### Clone Repository
-git clone https://github.com/your-username/limupa-store.git
+https://github.com/AWAISALISHAH494/Limupa-Store-eCommerce
 cd limupa-store
 
 ### Create Virtual Environment
